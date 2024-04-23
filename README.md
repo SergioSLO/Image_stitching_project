@@ -1,4 +1,4 @@
-# Image_stitching_proyect
+# Image_stitching_project
 El mejor proyecto de UTEC :D
 
 ## Idea 1
