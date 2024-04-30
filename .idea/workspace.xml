@@ -4,11 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5e47fc-2b87-4dc5-ac90-672b750392cc" name="Changes" comment="FeatureLab" />
+    <list default="true" id="1d5e47fc-2b87-4dc5-ac90-672b750392cc" name="Changes" comment="Fotos Con Camara">
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4278.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4279.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4280.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4281.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4282.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4283.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4284.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4285.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4286.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4287.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4288.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4289.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4290.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4291.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4292.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4293.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4294.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4295.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4296.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4297.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4298.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4299.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4300.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4301.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4302.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4303.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4304.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4305.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4306.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4307.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Buenas Fotos/IMG_4308.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StitcherPlayroom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,7 +72,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/LENOVO/OneDrive/Documentos/GitHub/Image_stitching_project",
+    "last_opened_file_path": "C:/Users/LENOVO/OneDrive/Documentos/GitHub/Image_stitching_project/Buenas Fotos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +83,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\OneDrive\Documentos\GitHub\Image_stitching_project\Buenas Fotos" />
+      <recent name="C:\Users\LENOVO\OneDrive\Documentos\GitHub\Image_stitching_project\CamaraFotos" />
       <recent name="C:\Users\LENOVO\OneDrive\Documentos\GitHub\Image_stitching_project" />
       <recent name="C:\Users\LENOVO\OneDrive\Escritorio\Image_stitching_proyect\Image_stitching_proyect\Segundo Intento" />
     </key>
@@ -56,6 +100,7 @@
       <workItem from="1713838967448" duration="3144000" />
       <workItem from="1713846401713" duration="1334000" />
       <workItem from="1713852315613" duration="65000" />
+      <workItem from="1714441751774" duration="1413000" />
     </task>
     <task id="LOCAL-00001" summary="FeatureLab">
       <option name="closed" value="true" />
@@ -65,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713852360966</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fotos Con Camara">
+      <option name="closed" value="true" />
+      <created>1714441917325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714441917325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,9 +126,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FeatureLab" />
-    <option name="LAST_COMMIT_MESSAGE" value="FeatureLab" />
+    <MESSAGE value="Fotos Con Camara" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fotos Con Camara" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Image_stitching_proyect$main.coverage" NAME="main Coverage Results" MODIFIED="1713847731730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Segundo Intento" />
+    <SUITE FILE_PATH="coverage/Image_stitching_project$StitcherPlayroom.coverage" NAME="StitcherPlayroom Coverage Results" MODIFIED="1714447834440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
